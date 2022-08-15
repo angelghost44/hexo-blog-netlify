@@ -3,35 +3,35 @@ navbar:
   ground_glass:
     enable: true
 index:
-  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/sLNBiP2J.jpg
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/znVmq98Z.png
   banner_img_height: 100
   slogan:
     text: 这是一个演示博客,可以登陆后台实际测试效果
 post:
-  banner_img: /images/uploads/mmexport1602581319886.webp
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/xfuQcQdB.webp
   banner_img_height: 70
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: https://alpha-q3.sourcegcdn.com/2022/08/15/mLhMRIoC.webp
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/j0ModMHP.jpg
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/Istxt3oJ.jpg
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/758YNXRI.jpg
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/egQ0Xsru.png
   banner_img_height: 80
   subtitle: null
   avatar: /img/avatar.png
   name: Fluid
   intro: An elegant theme for Hexo
 links:
-  banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
+  banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/sLNBiP2J.jpg
   banner_img_height: 80
   subtitle: null
   items:
