@@ -1,7 +1,7 @@
 ---
 banner_img: https://alpha-q3.sourcegcdn.com/2022/08/15/6ciZKPUR.png
 index_img: https://w.wallhaven.cc/full/9m/wallhaven-9mjoy1.png
-title: Hexo
+title: 一：软件质量模型
 date: 2022-08-15 14:41:38
 updated: 2022-08-15 14:41:38
 tags:
