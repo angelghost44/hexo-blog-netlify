@@ -4,8 +4,10 @@ index_img: /images/uploads/面饼仙儿-黑x森蚺バレエ.jpg
 title: C++/array与forward_list
 date: 2023-04-09 08:42:02
 updated: 2023-04-09 08:42:02
-categories:
+tags:
   - C
+categories:
+  - 编程
 comments: true
 ---
 ## C++﻿11
@@ -38,8 +40,6 @@ int main()
 ```
 
 ### 2﻿.forward_list
-
-> 
 
 ```
 #include <iostream>
