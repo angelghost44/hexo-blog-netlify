@@ -1,7 +1,7 @@
 ---
 banner_img: /images/uploads/蠢沫沫-海风.jpg
 index_img: /images/uploads/蠢沫沫-海风.jpg
-sticky: 1
+sticky: ""
 title: C++/指针与引用
 date: 2023-04-08 10:24:00
 updated: 2023-04-08 10:24:00
