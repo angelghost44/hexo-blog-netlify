@@ -1,0 +1,6 @@
+.index-img img{
+	transform: all .6s;
+}
+.index-img img:hover{
+	scale(1.15);
+}
