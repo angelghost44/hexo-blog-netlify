@@ -1,6 +1,7 @@
+.index-img img:hover{
+	scale:1.15;
+}
+
 .index-img img{
 	transition: all .6s;
-}
-.index-img img:hover{
-	scale(1.15);
 }
