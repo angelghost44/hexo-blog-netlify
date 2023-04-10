@@ -62,7 +62,7 @@ int main()
 }
 ```
 
-**修饰结构体**
+4. 修饰结构体
 
 ```cpp
 #include <bits/stdc++.h> 
