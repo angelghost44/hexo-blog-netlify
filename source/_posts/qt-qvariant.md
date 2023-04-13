@@ -16,7 +16,7 @@ comments: true
 >
 > * QVariant
 >
->      QVaroamt.pro
+>      <span>Varoamt.pro</span>
 >
 >   * Headers
 >
