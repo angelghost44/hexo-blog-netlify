@@ -12,8 +12,6 @@ comments: true
 ---
 #### Buttons Containers1
 
-\[TOC]
-
 ##### 一、控件名称介绍
 
 * Push Button：命令按钮
