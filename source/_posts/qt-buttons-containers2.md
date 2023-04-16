@@ -30,7 +30,7 @@ comments: true
 * MdiArea：MDI区域
 * QAxWidget：封装的Flash的ActiveX控件
 
-### 二、控件编写
+## 二、控件编写
 
 #### Group Box
 
