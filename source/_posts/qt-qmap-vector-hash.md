@@ -86,7 +86,7 @@ comments: true
    	return a.exec();
    }
    ```
-2. vector
+2. h﻿ash
 
    > 1.定义对象
    >
@@ -121,7 +121,7 @@ comments: true
    	return a.exec();
    }
    ```
-3. hash
+3. v﻿ector
 
    > 数据存储
    >
