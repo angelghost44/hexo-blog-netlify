@@ -1,7 +1,7 @@
 ---
 banner_img: /images/uploads/saya-the-fox-ciri.jpg
 index_img: /images/uploads/saya-the-fox-ciri.jpg
-sticky: -1
+sticky: ""
 title: qt/QFileDialog文件对话框
 date: 2023-04-30 17:14:30
 updated: 2023-04-30 17:14:30
